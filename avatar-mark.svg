@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">JDP monogram</title>
+  <desc id="desc">A deep blue monogram mark for Jeush Daniel Peraren</desc>
+  <rect width="320" height="320" rx="56" fill="#1257A6"/>
+  <path d="M63 76h194M63 244h194M76 63v194M244 63v194" stroke="#fff" stroke-opacity=".24" stroke-width="3"/>
+  <path d="M104 103h70c27 0 42 15 42 39 0 20-10 32-29 37l36 39h-35l-31-35h-19v35h-34V103Zm34 27v27h31c10 0 15-5 15-14s-5-13-15-13h-31Z" fill="#fff"/>
+  <path d="M76 282h168" stroke="#fff" stroke-opacity=".7" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="76" cy="282" r="6" fill="#fff"/><circle cx="244" cy="282" r="6" fill="#fff"/>
+</svg>
